@@ -1,0 +1,5 @@
+{{#user}}
+Name: Niharika Kuchhal
+Skills: Python, Flask, Pandas, Numpy, R, Matplotlib, Jira, Mysql, Couchdb, Image Processing, C, C++
+Email: niharikakuchhal14@gmail.com
+{{/user}}
